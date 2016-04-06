@@ -4,7 +4,7 @@ Write a swift project a day in infinite days.
 
 ## Project Index
 
-Project 01: HelloWorld
+### Project 01: HelloWorld
 
 ![](screenshots/project01.gif)
 
